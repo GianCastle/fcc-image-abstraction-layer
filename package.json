@@ -16,6 +16,9 @@
     "node",
     "freecodecamp"
   ],
+  "engines": {
+    "node": "6.3.0"
+  },
   "author": "Giancarlos Castillo",
   "bugs": {
     "url": "https://github.com/GianCastle/fcc-image-abstraction-layer/issues"
