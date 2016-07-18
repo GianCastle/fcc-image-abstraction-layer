@@ -57,5 +57,5 @@ app.get('/images/latest', function(req, res, next) {
 });
 
 app.listen(process.env.PORT || 3000, function() {
-    console.log('The server is running at', proces.env.PORT || 3000);
+    console.log('The server is running at', process.env.PORT || 3000);
 });
